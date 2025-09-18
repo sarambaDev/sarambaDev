@@ -38,6 +38,6 @@ Hi, I'm Muhammad Saifuddin — an Islamic Education Management student with a de
 
 </details>
 
-### 📊 GitHub Stats:
+<!-- ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=sarambaDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![stats](https://github-readme-stats.vercel.app/api?username=sarambaDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false) -->
